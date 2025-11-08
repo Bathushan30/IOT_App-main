@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917083703355",
+    "project_id": "bledsoetech-785b0",
+    "storage_bucket": "bledsoetech-785b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917083703355:android:077b56942cfb172e90f41e",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ILFWFEJL1A6LikkXyPuMz3g0JpcKj7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

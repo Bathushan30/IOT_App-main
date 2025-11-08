@@ -1,0 +1,52 @@
+name: iot
+description: "BledsoeTech - Smart Home Control System"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  
+  # Navigation
+  google_nav_bar: ^5.0.7
+  
+  # Icons
+  line_icons: ^2.0.3
+  
+  # UI Components
+  simple_gradient_text: ^1.2.2
+  quickalert: ^1.0.0
+  
+  # SVG Support
+  flutter_svg: ^2.0.9
+  
+  # HTTP
+  http: ^1.2.2
+  
+  # Date formatting
+  intl: ^0.19.0
+  
+  # Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Assets - SVG icons and logos
+  assets:
+    - assets/icon.svg
+    - assets/logo.svg
