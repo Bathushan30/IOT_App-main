@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:917083703355:android:077b56942cfb172e90f41e",
         "android_client_info": {
-          "package_name": "com.example.iot"
+          "package_name": "com.bledsoetech.iot"
         }
       },
       "oauth_client": [],
